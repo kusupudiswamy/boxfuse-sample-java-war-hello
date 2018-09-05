@@ -1,6 +1,4 @@
-
-node {
-    
+node {   
 sh '''
  #!/bin/bash
 echo "deploy to mutiple servers at same time"
